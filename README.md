@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snekhapinky
+- 👋 Hi, I’m @Snekha
 - 👀 I’m interested in web desingning
 - 🌱 I’m currently learning full stack developer in python
 - 💞️ I’m looking to collaborate on 
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-snekhapinky/snekhapinky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Snekha/Snekha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
